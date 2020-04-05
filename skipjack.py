@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=cMm5cd-WB2s
 # https://csrc.nist.gov/csrc/media/projects/cryptographic-algorithm-validation-program/documents/skipjack/skipjack.pdf
 
 class SkipJack:
