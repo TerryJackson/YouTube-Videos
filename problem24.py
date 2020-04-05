@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=WuebqXs1fxc
+
 '''
 In Jon Erickson's book "Hacking - the Art of Exploitation" 
 the following problem is found in the introduction: 
